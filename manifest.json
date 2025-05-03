@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"ProMind Complex™ (Official) Get 50% Off + Free Shipping",
+  "short_name":"ProMind Complex™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"ProMind Complex is a dietary memory boosting supplement that is made of 100% natural ingredients.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
